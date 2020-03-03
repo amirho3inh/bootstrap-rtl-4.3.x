@@ -1,5 +1,5 @@
 # Bootstrap-rtl-4.3.x
-bootstrap rtl version 4.3.x
+bootstrap rtl version 4.3.x and bootstrap rtl version 4.4.x
 
 # Update
  - May 11, 2019 : first commit for bootstrap 4.3.0
